@@ -209,7 +209,7 @@
   },
   "devDependencies": {
     "@atproto/dev-env": "^0.3.39",
-    "@babel/core": "^7.23.2",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.20.0",
     "@babel/runtime": "^7.20.0",
     "@did-plc/server": "^0.0.1",
@@ -275,7 +275,7 @@
     "webpack": "^5.75.0",
     "webpack-bundle-analyzer": "^4.10.1",
     "webpack-cli": "^5.0.1",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^5.2.6"
   },
   "resolutions": {
     "@types/react": "^18",
